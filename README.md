@@ -1,11 +1,14 @@
 # Newton school mini project 
+
 # Photography Site 
+
 This website shows images and their information to users.
 
 
 * Technologies Used
 
 1.HTML 
+
 2.CSS
 
 
@@ -20,6 +23,7 @@ This website shows images and their information to users.
 
 
 #Website Link
+
 "https://sarikapanmand.github.io/Photography-Site/"
 
 
